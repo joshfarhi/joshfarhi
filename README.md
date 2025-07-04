@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌱 I’m currently looking for a full-time role!<br>💬 Ask me about my recent trip to Asia!<br>⚡ Fun fact: I was born in New Hampshire, grew up in North Carolina, and finally settled on the West Coast.
+🌱 I’m currently looking for a full-time role for a React developer! On the side, I am learning Python.<br>💬 Ask me about my recent trip to Asia!<br>⚡ Fun fact: I was born in New Hampshire, grew up in North Carolina, and finally settled on the West Coast.
 
 
 ## 🌐 Connect with me
