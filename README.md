@@ -1,13 +1,12 @@
 # 💫 About Me:
-🌱 Moving forward from Independant Contracting! I’m currently looking for a full-time role for a React developer! On the side, I am learning Python.<br>💬 Ask me about my recent trip to Asia!<br>⚡ Fun fact: I was born in New Hampshire, grew up in North Carolina, and finally settled on the West Coast.
-
+🌱 Moving forward from Independant Contracting! I'm currently looking for a full-time role for a React developer! On the side, I am learning Python.<br>💬 Ask me about my recent trip to Asia!<br>⚡ Fun fact: I was born in New Hampshire, grew up in North Carolina, and finally settled on the West Coast.
 
 ## 🌐 Connect with me
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](https://joshuafarhi.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/joshua-farhi/) 
 [![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)](https://leetcode.com/joshfarhi)
 
 ## 🛠️ Tech Stack
-
 ### Languages
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
@@ -29,12 +28,7 @@
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
 
-## 🌐 Connect with me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/joshua-farhi/) 
-[![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)](https://leetcode.com/joshfarhi)
-
 ---
-
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=joshfarhi&theme=nightowl&no-frame=false&no-bg=false&margin-w=4)
 
