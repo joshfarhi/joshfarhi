@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌱 Moving forward from Independant Contracting! I'm currently looking for a full-time role as a developer! On the side, I am learning Python.<br>💬 Ask me about my recent trip to Asia!<br>⚡ Fun fact: I was born in New Hampshire, grew up in North Carolina, and finally settled on the West Coast. My partner has shared her love for travelling with me, so we consider ourselves digital nomads (for the time being)
+🌱 Moving forward from Independant Contracting! I'm currently looking for a full-time role as a developer! On the side, I am learning Python.<br>💬 Ask me about my recent trip to Asia!<br>⚡ Fun fact: I was born in New Hampshire, grew up in North Carolina, and finally settled on the West Coast. My partner has shared her love for travelling with me, so we consider ourselves to be digital nomads (for the time being). Travellimg the United States during the off-season, and then touring a new region abroad every year. 
 
 ## 🌐 Connect with me
 [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](https://joshuafarhi.com)
